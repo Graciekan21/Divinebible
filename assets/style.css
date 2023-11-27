@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url("assets/images/my_background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.image-fluid {
+    max-width: 100%;
+    height: auto;
+}
